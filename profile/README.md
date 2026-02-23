@@ -1,4 +1,4 @@
-# ShopTechTPKT – Organization Profile
+# ShopTechTPKT
 
 ## Tổng quan
 
