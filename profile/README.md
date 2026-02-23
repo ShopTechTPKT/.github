@@ -63,8 +63,7 @@ Luồng dữ liệu: Người dùng tương tác với React frontend; frontend 
 |------------|-------------|
 | **Backend_Web** | API Spring Boot: sản phẩm, đơn hàng, giỏ hàng, user, auth (JWT/OAuth2), WebSocket chat, VNPay callback, email, Swagger, rate limit, Spring AI (Gemini). |
 | **FrontEnd** | Ứng dụng web React (Vite): trang chủ, catalog, giỏ hàng, checkout, thanh toán, profile, đơn hàng, chat, admin, báo cáo, i18n. |
-| **vnpay_nodejs** | Ứng dụng Node.js/Express tích hợp VNPay sandbox: tạo URL thanh toán, return URL, IPN, truy vấn giao dịch, hoàn tiền. |
-| **vnpay_demo_thach** | Demo/mock luồng thanh toán: chọn ngân hàng, nhập thẻ, OTP; gửi email xác nhận qua Backend_Web và push notification qua FCM. |
+| **vnpay_demo_thach** | Ứng dụng Node.js/Express tích hợp VNPay sandbox: tạo URL thanh toán, return URL, IPN, truy vấn giao dịch, hoàn tiền.  |
 | **CauHinhChat** | Cấu hình chat và bộ component UI cho luồng thanh toán VNPay (layout, chọn phương thức, OTP, kết quả). |
 
 ---
